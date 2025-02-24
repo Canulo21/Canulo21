@@ -24,7 +24,7 @@
 
 <div align="center">
  
-  ## My Skills
+  ## My Skills 💻
   
  </div>
 
@@ -52,7 +52,7 @@
 
 <div align="center">
  
-## Contact
+## Contact 🙋🏻‍♂️
 
 </div>
 
