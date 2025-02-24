@@ -3,7 +3,7 @@
 <div>
   
   <div>
-    <img style="width: 45%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Canulo21&layout=compact&theme=radical" />
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Canulo21&layout=compact&theme=radical)
     <img style="width: 45%;" src="https://github-readme-stats.vercel.app/api?username=Canulo21&show_icons=true&theme=radical" />
   </div>
   <div>
