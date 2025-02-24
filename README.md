@@ -20,6 +20,8 @@
 </br>
 </br>
 
+<div>
+<div>
  ## Skills
 <div><br>
  <p align="center">
@@ -35,7 +37,9 @@
  </a>
 </br>
 </br>
+</div>
 
+<div>
 ## Contact
 
 <div> 
@@ -47,3 +51,5 @@
  
 </div>
 
+</div>
+</div>
