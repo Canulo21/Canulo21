@@ -1,6 +1,7 @@
 ## Hi there, I'm Jhon Carlo 👋
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Canulo21&theme=radical)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Canulo21&theme=radical" />
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Canulo21&theme=radical)
 
