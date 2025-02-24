@@ -47,8 +47,8 @@
 </div>
 
 
-<styles>
+<style>
  .skills {
    display: flex;
  }
-</styles>
+</style>
