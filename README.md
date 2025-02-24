@@ -12,7 +12,7 @@
 <div>
  <a href="https://github.com/Canulo21">
   <img height="163" align="center" src="https://my-stats-43gk.vercel.app/api?username=Canulo21&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
-<img align="center" height="163" src="https://github-readme-streak-stats.herokuapp.com/?user=kodlens&theme=radical"/>
+<img align="center" height="163" src="https://github-readme-streak-stats.herokuapp.com/?user=Canulo21&theme=radical"/>
  </a>
 </div>
 </div>
