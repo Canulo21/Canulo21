@@ -23,9 +23,7 @@
 <div>
 
  <p align="center">
- 
   ## Skills
-  
  </p>
  
 <div><br>
