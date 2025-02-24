@@ -41,7 +41,8 @@
 </br>
 </div>
 
-<div width: 49%>
+<div width: 49%;>
+ 
 ## Contact
 
 <div> 
