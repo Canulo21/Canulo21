@@ -62,7 +62,7 @@
 
 <div align="center">
  
-## 🙋🏻‍♂️ <b> Contact </b> 
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDE2eTQ2dzRuanZmdjN6dGM1Mnc1ZDB1N3M0bmZ1aDRvNzluYmdzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KGa97XVyZtGTJkYlnT/giphy.gif" width ="25">  <b> Contact </b> 
 
 </div>
 
