@@ -1,10 +1,12 @@
 ## Hi there, I'm Jhon Carlo 👋
 
 <div>
- <div style="display: flex; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Canulo21&layout=compact&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Canulo21&show_icons=true&theme=radical" />
-</div>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Canulo21&layout=compact&theme=radical" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Canulo21&show_icons=true&theme=radical" /></td>
+  </tr>
+</table>
 
   <div>
     <img style="width: 45%;" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Canulo21&theme=radical" />
