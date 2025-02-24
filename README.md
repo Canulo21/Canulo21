@@ -21,8 +21,10 @@
 </br>
 
 <div>
-<div>
+<div style="width: 49%">
+ 
  ## Skills
+ 
 <div><br>
  <p align="center">
   <img height="40" align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -39,7 +41,7 @@
 </br>
 </div>
 
-<div>
+<div style="width: 49%">
 ## Contact
 
 <div> 
