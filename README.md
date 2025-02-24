@@ -2,7 +2,7 @@
 
 </br>
 
-<p align="center">
+<div align="center">
  <div>
   <a href="https://github.com/Canulo21">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Canulo21&layout=compact&langs_count=16&theme=radical"/>
@@ -15,7 +15,7 @@
 <img align="center" height="163" src="https://github-readme-streak-stats.herokuapp.com/?user=Canulo21&theme=radical"/>
  </a>
 </div>
-</p>
+</div>
 
 </br>
 </br>
