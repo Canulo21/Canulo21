@@ -4,8 +4,8 @@
 
  <div>
   <a href="https://github.com/Canulo21">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Canulo21&layout=compact&langs_count=16&theme=dracula"/>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Canulo21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Canulo21&layout=compact&langs_count=16&theme=radical"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Canulo21&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
  
 <a href="#">
