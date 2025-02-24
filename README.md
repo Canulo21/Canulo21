@@ -4,7 +4,7 @@
 
 <div align="center">
  
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img align="center" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 </div>
 
@@ -34,7 +34,7 @@
 
 <div align="center">
  
-  ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">  <b> My Skills </b>
+  ## <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35">  <b> My Skills </b>
   
  </div>
 
@@ -62,7 +62,7 @@
 
 <div align="center">
  
-## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDE2eTQ2dzRuanZmdjN6dGM1Mnc1ZDB1N3M0bmZ1aDRvNzluYmdzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KGa97XVyZtGTJkYlnT/giphy.gif" width ="25">  <b> Contact </b> 
+## <img align="center" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDE2eTQ2dzRuanZmdjN6dGM1Mnc1ZDB1N3M0bmZ1aDRvNzluYmdzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KGa97XVyZtGTJkYlnT/giphy.gif" width ="35">  <b> Contact </b> 
 
 </div>
 
