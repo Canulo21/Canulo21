@@ -19,7 +19,6 @@
 
 </br>
 </br>
-</br>
 
  ## Skills
 <div style="display: inline_block"><br>
@@ -34,7 +33,6 @@
 </div>
   
 </br>
-
 </br>
 
 ## Contact
