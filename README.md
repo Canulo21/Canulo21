@@ -21,7 +21,7 @@
 </br>
 
 <div>
-<div style="width: 49%;">
+<div width="49%">
  
  ## Skills
  
@@ -41,7 +41,7 @@
 </br>
 </div>
 
-<div style="width: 49%;">
+<div width: 49%>
 ## Contact
 
 <div> 
