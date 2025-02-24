@@ -5,16 +5,14 @@
  <div>
   <a href="https://github.com/Canulo21">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Canulo21&layout=compact&langs_count=16&theme=dracula"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Canulo21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Canulo21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
  
 <a href="#">
   <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=Canulo21&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
 </a>
 
-<a href="#">
-  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=Canulo21&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
-</a>
+
 
 
 <img align="left" height=202 src="https://github-readme-streak-stats.herokuapp.com/?user=Canulo21&theme=radical"/>
