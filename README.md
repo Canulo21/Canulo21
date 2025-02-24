@@ -3,6 +3,12 @@
 </br>
 
 <div align="center">
+ 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
+</div>
+
+<div align="center">
  <div>
   <a href="https://github.com/Canulo21">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Canulo21&layout=compact&langs_count=16&theme=radical"/>
