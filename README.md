@@ -28,6 +28,8 @@
   
  </div>
 
+ </br>
+
 <div align="center">
   <img height="40" align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -47,6 +49,8 @@
 ## Contact
 
 </div>
+
+ </br>
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/jhon-carlo-canulo-116013227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
