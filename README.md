@@ -22,9 +22,11 @@
 
 <div>
 
- <p align="center">
+<div align="center">
+ 
   ## Skills
- </p>
+  
+ </div>
  
 <div><br>
  <p align="center">
