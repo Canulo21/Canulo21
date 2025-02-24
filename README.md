@@ -10,9 +10,10 @@
 
  <div>
  <a href="#">
-   <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=Canulo21&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
+   <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api? 
+    username=Canulo21&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
+   <img align="left" height=202 src="https://github-readme-streak-stats.herokuapp.com/?user=Canulo21&theme=radical"/>
  </a>
- <img align="left" height=202 src="https://github-readme-streak-stats.herokuapp.com/?user=Canulo21&theme=radical"/>
  </div>
  
  ## Skills
