@@ -1,19 +1,50 @@
-## Hi there, I'm Jhon Carlo 👋
+# Hi there, I'm Jhon Carlo! 👋
 
-<div>
-  
-  <div>
-    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Canulo21&layout=compact&theme=radical" />
-    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=Canulo21&show_icons=true&theme=radical" />
-  </div>
-  <div>
-    <img align="center" width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Canulo21&theme=radical" />
-    <img align="center" width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Canulo21&theme=radical" />
-  </div>
-  <div>
-    <img align="center" width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Canulo21&theme=radical" />
-    <img align="center" width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Canulo21&theme=radical&utcOffset=8" />
-  </div>
+</br>
+
+ <div>
+  <a href="https://github.com/Canulo21">
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Canulo21&layout=compact&langs_count=16&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Canulo21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
+ 
+<a href="#">
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=Canulo21&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
+</a>
+
+<a href="#">
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=Canulo21&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
+</a>
 
 
+<img align="left" height=202 src="https://github-readme-streak-stats.herokuapp.com/?user=Canulo21&theme=radical"/>
+<img align="left" height=97 src="https://github-profile-trophy.vercel.app/?username=Canulo21&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
+
+ 
+ ## Skills
+<div style="display: inline_block"><br>
+  <img height="40" align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="40" align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="40" align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="40" align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <!-- <img align="right" height="180em" alt="Etienne-yoda" src="https://giphy.com/embed/RbDKaczqWovIugyJmW"> -->
+
+</div>
+  
+</br>
+
+</br>
+
+## Contact
+
+<div> 
+  <a href="https://www.linkedin.com/in/jhon-carlo-canulo-116013227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto: canulo1234@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ </br>
+ canulo1234@gmail.com
+</br>
+ 
+</div>
