@@ -3,8 +3,8 @@
 <div>
   
   <div>
-    <img align="center" width="40%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Canulo21&layout=compact&theme=radical" />
-    <img align="center" width="60%" height="200" src="https://github-readme-stats.vercel.app/api?username=Canulo21&show_icons=true&theme=radical" />
+    <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Canulo21&layout=compact&theme=radical" />
+    <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=Canulo21&show_icons=true&theme=radical" />
   </div>
   <div>
     <img align="center" width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Canulo21&theme=radical" />
