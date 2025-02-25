@@ -1,7 +1,5 @@
 # Hi there, I'm Jhon Carlo! <img align="top" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjM0cDc4eGIyazBlb3gya3RkcDk5NDhtN3Fxczczb2R1eHQwNXJodSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/m0dmKBkncVETJv2h0S/giphy.gif" width ="35"> 
 
-
-
 </br>
 
 <div align="center">
